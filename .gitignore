@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/TCP_Servers/bin
+/TCP_Servers/GameServers/bin
+/TCP_Servers/GameServers/obj
+/TCP_Servers/NetworkServers/bin
+/TCP_Servers/TCP_Servers/bin
